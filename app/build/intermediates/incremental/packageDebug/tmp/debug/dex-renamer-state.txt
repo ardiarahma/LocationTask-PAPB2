@@ -1,0 +1,4 @@
+#Mon Mar 30 10:42:16 ICT 2020
+base.0=D\:\\KULIAH\\AP - Semester 2\\PAPB 2\\LocationTask-PAPB2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
